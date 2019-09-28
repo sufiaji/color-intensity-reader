@@ -3,4 +3,4 @@ Take picture of chemical glass from Android phone, send picture to Matlab, perfo
 
 ![Expl Img](/images/Capture.JPG)
 
-Note: Android java codes available in android_codes folder, but you need to create your own project in Android Studio, put INTERNET permission in manifest file, and create xml file for each activities accrodingly.
+Note: Android java codes available in android_codes folder, but you need to create your own project in Android Studio, put INTERNET permission in manifest file, and create xml file for each activities accrodingly. Protocol for communication: TCP/IP
